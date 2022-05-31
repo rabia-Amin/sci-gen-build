@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dd387185.css",
+    "main.js": "./static/js/main.950dca5a.js",
+    "static/media/bg.mp4": "./static/media/bg.3e146665844e3f6ce90b.mp4",
+    "static/media/earth.svg": "./static/media/earth.43456bc13cde9a971fe6d3e89a2e2424.svg",
+    "static/media/faceimg.svg": "./static/media/faceimg.3e02c7adfaae9ab8eef3a22311963389.svg",
+    "static/media/dct.svg": "./static/media/dct.cb837407c2b1f4571ed2d6b8cffe8d4e.svg",
+    "static/media/food.svg": "./static/media/food.ec1cd793cd7483399943060b7dddd692.svg",
+    "static/media/oil.svg": "./static/media/oil.30b9abb1afb4e3135acf7f5baf312743.svg",
+    "static/media/Poppins-Regular.ttf": "./static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "./static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-Bold.ttf": "./static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/doctor.svg": "./static/media/doctor.6b4135a855ef96415f182e00d72cbf54.svg",
+    "static/media/hands.svg": "./static/media/hands.141e611135f20578e5674cc84fc312d9.svg",
+    "static/media/table.svg": "./static/media/table.f6ef7e5baeb937ef78395a1b7c09830e.svg",
+    "static/media/logo.svg": "./static/media/logo.1947ca4db7803784c3c69efcd7559a69.svg",
+    "index.html": "./index.html",
+    "static/media/twitter.svg": "./static/media/twitter.6d9225e3d77a57aa970096e6d9bf7455.svg",
+    "static/media/btn.svg": "./static/media/btn.af5a86a79c73c2d515ebfa03bd0d1cb6.svg",
+    "static/media/linkid.svg": "./static/media/linkid.216f3ca4d005ea2e572a387a907ed963.svg",
+    "static/media/arrow.svg": "./static/media/arrow.5fbb0c0adf4327412f2f6655cf362b2a.svg",
+    "static/media/facebookicon.svg": "./static/media/facebookicon.afc0a67a78662ce5e0cc50f1ca07d2ba.svg",
+    "main.dd387185.css.map": "./static/css/main.dd387185.css.map",
+    "main.950dca5a.js.map": "./static/js/main.950dca5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd387185.css",
+    "static/js/main.950dca5a.js"
+  ]
+}
